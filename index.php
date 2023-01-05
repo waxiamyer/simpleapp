@@ -5,7 +5,7 @@
 	</head>
 
 <body> 
-	<h1>PHP Test</h1>
+	<h1>Waxia's PHP app</h1>
 		<p><b>This is Waxia's PHP in Action</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
